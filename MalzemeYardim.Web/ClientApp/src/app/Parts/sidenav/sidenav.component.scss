@@ -1,0 +1,56 @@
+.sidenav {
+    width: 30vh;
+    height: 46vh;
+    border: 1px solid #33333348;
+    position: fixed;
+    left: 8vh;
+    top: 8vh;
+    background-color: transparent;
+}
+
+.sidenav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.sidenav ul li {
+    margin: 5px 0;
+}
+
+.sidenav ul li button {
+    width: 100%;
+    background: none;
+    border: none;
+    color: #333333;
+    text-align: left;
+    padding: 0.2vh 1vh;
+    font-size: 0.9em;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.sidenav ul li button:hover {
+    background-color: #f0f0f0;
+}
+
+.button-icon {
+    width: 1.9vh; 
+    height: 1.9vh;
+    background-color: gray; 
+    margin-right: 0.4vh; 
+    flex-shrink: 0; 
+}
+
+.button-text {
+    flex-grow: 1;
+}
+
+.ml{
+    margin-left: 2vh;
+}
+
+.button-icon.active{
+    background-color: red;
+}

@@ -1,0 +1,12 @@
+C:\Users\baris\Desktop\Malzeme Yardım\MalzemeYardim.Domain\bin\Debug\net6.0\MalzemeYardim.Domain.deps.json
+C:\Users\baris\Desktop\Malzeme Yardım\MalzemeYardim.Domain\bin\Debug\net6.0\MalzemeYardim.Domain.dll
+C:\Users\baris\Desktop\Malzeme Yardım\MalzemeYardim.Domain\bin\Debug\net6.0\MalzemeYardim.Domain.pdb
+C:\Users\baris\Desktop\Malzeme Yardım\MalzemeYardim.Domain\obj\Debug\net6.0\MalzemeYardim.Domain.csproj.AssemblyReference.cache
+C:\Users\baris\Desktop\Malzeme Yardım\MalzemeYardim.Domain\obj\Debug\net6.0\MalzemeYardim.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baris\Desktop\Malzeme Yardım\MalzemeYardim.Domain\obj\Debug\net6.0\MalzemeYardim.Domain.AssemblyInfoInputs.cache
+C:\Users\baris\Desktop\Malzeme Yardım\MalzemeYardim.Domain\obj\Debug\net6.0\MalzemeYardim.Domain.AssemblyInfo.cs
+C:\Users\baris\Desktop\Malzeme Yardım\MalzemeYardim.Domain\obj\Debug\net6.0\MalzemeYardim.Domain.csproj.CoreCompileInputs.cache
+C:\Users\baris\Desktop\Malzeme Yardım\MalzemeYardim.Domain\obj\Debug\net6.0\MalzemeYardim.Domain.dll
+C:\Users\baris\Desktop\Malzeme Yardım\MalzemeYardim.Domain\obj\Debug\net6.0\refint\MalzemeYardim.Domain.dll
+C:\Users\baris\Desktop\Malzeme Yardım\MalzemeYardim.Domain\obj\Debug\net6.0\MalzemeYardim.Domain.pdb
+C:\Users\baris\Desktop\Malzeme Yardım\MalzemeYardim.Domain\obj\Debug\net6.0\ref\MalzemeYardim.Domain.dll

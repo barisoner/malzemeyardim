@@ -1,0 +1,14 @@
+C:\Users\baris\Desktop\Malzeme Yardım\MalzemeYardim.Infra.Data\bin\Debug\net6.0\MalzemeYardim.Infra.Data.deps.json
+C:\Users\baris\Desktop\Malzeme Yardım\MalzemeYardim.Infra.Data\bin\Debug\net6.0\MalzemeYardim.Infra.Data.dll
+C:\Users\baris\Desktop\Malzeme Yardım\MalzemeYardim.Infra.Data\bin\Debug\net6.0\MalzemeYardim.Infra.Data.pdb
+C:\Users\baris\Desktop\Malzeme Yardım\MalzemeYardim.Infra.Data\obj\Debug\net6.0\MalzemeYardim.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\baris\Desktop\Malzeme Yardım\MalzemeYardim.Infra.Data\obj\Debug\net6.0\MalzemeYardim.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baris\Desktop\Malzeme Yardım\MalzemeYardim.Infra.Data\obj\Debug\net6.0\MalzemeYardim.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\baris\Desktop\Malzeme Yardım\MalzemeYardim.Infra.Data\obj\Debug\net6.0\MalzemeYardim.Infra.Data.AssemblyInfo.cs
+C:\Users\baris\Desktop\Malzeme Yardım\MalzemeYardim.Infra.Data\obj\Debug\net6.0\MalzemeYardim.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\baris\Desktop\Malzeme Yardım\MalzemeYardim.Infra.Data\obj\Debug\net6.0\MalzemeYardim.Infra.Data.dll
+C:\Users\baris\Desktop\Malzeme Yardım\MalzemeYardim.Infra.Data\obj\Debug\net6.0\refint\MalzemeYardim.Infra.Data.dll
+C:\Users\baris\Desktop\Malzeme Yardım\MalzemeYardim.Infra.Data\obj\Debug\net6.0\MalzemeYardim.Infra.Data.pdb
+C:\Users\baris\Desktop\Malzeme Yardım\MalzemeYardim.Infra.Data\obj\Debug\net6.0\ref\MalzemeYardim.Infra.Data.dll
+C:\Users\baris\Desktop\Malzeme Yardım\MalzemeYardim.Infra.Data\bin\Debug\net6.0\MalzemeYardim.Infra.Data.runtimeconfig.json
+C:\Users\baris\Desktop\Malzeme Yardım\MalzemeYardim.Infra.Data\obj\Debug\net6.0\MalzemeYardim.Infra.Data.genruntimeconfig.cache

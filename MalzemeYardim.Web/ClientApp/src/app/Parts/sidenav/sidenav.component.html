@@ -1,0 +1,70 @@
+<div class="sidenav">
+    <ul>
+        <li>
+            <button (click)="navigateTo('talep')" (click)="onButtonClick('talep','/talep')">
+                <span class="button-icon" [ngClass]="{'active':activeButtonId === 'talep'}"></span>
+                <span class="button-text">Talep</span>
+            </button>
+        </li>
+        <li>
+            <button (click)="navigateTo('stokYonetimi')" (click)="onButtonClick('stokYonetimi', '/stokYonetimi')">
+                <span class="button-icon" [ngClass]="{'active':activeButtonId === 'stokYonetimi'}"></span>
+                <span class="button-text">Stok Yönetimi</span>
+            </button>
+        </li>
+        <li>
+            <button (click)="navigateTo('satinAlma')" (click)="onButtonClick('satinAlma', '/satinAlma')">
+                <span class="button-icon ml" [ngClass]="{'active':activeButtonId === 'satinAlma'}"></span>
+                <span class="button-text">Satın Alma</span>
+            </button>
+        </li>
+        <li>
+            <button (click)="navigateTo('stokDurum')" (click)="onButtonClick('stokDurum', '/stokDurum')">
+                <span class="button-icon ml" [ngClass]="{'active':activeButtonId === 'stokDurum'}"></span>
+                <span class="button-text">Stok Durum</span>
+            </button>
+        </li>
+        <li>
+            <button (click)="navigateTo('tanımlar')" (click)="onButtonClick('tanımlar','/tanımlar')">
+                <span class="button-icon" [ngClass]="{'active':activeButtonId === 'tanımlar'}"></span>
+                <span class="button-text">Tanımlar</span>
+            </button>
+        </li>
+        <li>
+            <button (click)="navigateTo('depo')" (click)="onButtonClick('depo','/depo')">
+                <span class="button-icon ml" [ngClass]="{'active':activeButtonId === 'depo'}"></span>
+                <span class="button-text">Depo</span>
+            </button>
+        </li>
+        <li>
+            <button (click)="navigateTo('kurumTanim')" (click)="onButtonClick('kurumTanim','/kurumTanim')">
+                <span class="button-icon ml" [ngClass]="{'active':activeButtonId === 'kurumTanim'}"></span>
+                <span class="button-text">Kurum Tanım</span>
+            </button>
+        </li>
+        <li>
+            <button (click)="navigateTo('birim')" (click)="onButtonClick('birim','/birim')">
+                <span class="button-icon ml" [ngClass]="{'active':activeButtonId === 'birim'}"></span>
+                <span class="button-text">Birim</span>
+            </button>
+        </li>
+        <li>
+            <button (click)="navigateTo('malzemeGrubu')" (click)="onButtonClick('malzemeGrubu','/malzemeGrubu')">
+                <span class="button-icon ml" [ngClass]="{'active':activeButtonId === 'malzemeGrubu'}"></span>
+                <span class="button-text">Malzeme Grubu</span>
+            </button>
+        </li>
+        <li>
+            <button (click)="navigateTo('malzemeTanim')" (click)="onButtonClick('malzemeTanim' , '/malzemeTanim')">
+                <span class="button-icon ml" [ngClass]="{'active':activeButtonId === 'malzemeTanim'}"></span>
+                <span class="button-text">Malzeme Tanım</span>
+            </button>
+        </li>
+        <li>
+            <button (click)="navigateTo('firma')" (click)="onButtonClick('firma','/firma')">
+                <span class="button-icon ml" [ngClass]="{'active':activeButtonId === 'firma'}"></span>
+                <span class="button-text">Firma</span>
+            </button>
+        </li>
+    </ul>
+</div>

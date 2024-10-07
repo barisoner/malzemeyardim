@@ -1,0 +1,56 @@
+<div class="talep-container">
+    <!-- Butonlar -->
+    <div class="button-group">
+        <button class="talep-button">Talep Giriş</button>
+        <button class="duzenle-button">Düzenle</button>
+        <button class="sil-button">Sil</button>
+    </div>
+
+    <!-- Radyo Butonlar -->
+    <div class="radio-group">
+        <label>
+            <input type="radio" name="status" value="Keşif Bekleyen" (change)="onStatusChange('Keşif Bekleyen')"/> Keşif Bekleyen ({{ kesifBekleyenCount }})
+        </label>
+        <label>
+            <input type="radio" name="status" value="Onay Bekleyen" (change)="onStatusChange('Onay Bekleyen')"/> Onay Bekleyen ({{ onayBekleyenCount }})
+        </label>
+        <label>
+            <input type="radio" name="status" value="Teslim Bekleyen" (change)="onStatusChange('Teslim Bekleyen')"/> Teslim Bekleyen ({{ teslimBekleyenCount }})
+        </label>
+        <label>
+            <input type="radio" name="status" value="Tamamlanan" (change)="onStatusChange('Tamamlanan')"/> Tamamlanan ({{ tamamlananCount }})
+        </label>
+        <label>
+            <input type="radio" name="status" value="tünü" (change)="onStatusChange('tümü')"/> Tümü ({{ tumuCount }})
+        </label>
+    </div>
+
+    <!-- Tablo -->
+    <table class="talep-table">
+        <thead>
+            <tr>
+                <th>Dilekçe Tarihi</th>
+                <th>Evrak No</th>
+                <th>Kurum Adı</th>
+                <th>Durum</th>
+                <th>Talep Açıklama</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let row of paginatedRows; let i = index" (click)="onRowClick(i)" [ngClass]="{'selected-row': selectedRow === i}">
+                <td>{{ row.date }}</td>
+                <td>{{ row.documentNo }}</td>
+                <td>{{ row.organization }}</td>
+                <td>{{ row.status }}</td>
+                <td>{{ row.description }}</td>
+            </tr>
+        </tbody>
+        <div class="pagination-controls" *ngIf="totalPages > 1">
+            <button (click)="previousPage()" [disabled]="currentPage === 1">Geri</button>
+            <span> Sayfa {{ currentPage }} / {{ totalPages }}</span>
+            <button (click)="nextPage()" [disabled]="currentPage === totalPages">İleri</button>
+        </div>
+    </table>
+
+
+</div>

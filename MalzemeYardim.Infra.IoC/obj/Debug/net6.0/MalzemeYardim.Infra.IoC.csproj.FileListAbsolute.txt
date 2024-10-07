@@ -1,0 +1,15 @@
+C:\Users\baris\Desktop\Malzeme Yardım\MalzemeYardim.Infra.IoC\bin\Debug\net6.0\MalzemeYardim.Infra.IoC.deps.json
+C:\Users\baris\Desktop\Malzeme Yardım\MalzemeYardim.Infra.IoC\bin\Debug\net6.0\MalzemeYardim.Infra.IoC.dll
+C:\Users\baris\Desktop\Malzeme Yardım\MalzemeYardim.Infra.IoC\bin\Debug\net6.0\MalzemeYardim.Infra.IoC.pdb
+C:\Users\baris\Desktop\Malzeme Yardım\MalzemeYardim.Infra.IoC\obj\Debug\net6.0\MalzemeYardim.Infra.IoC.csproj.AssemblyReference.cache
+C:\Users\baris\Desktop\Malzeme Yardım\MalzemeYardim.Infra.IoC\obj\Debug\net6.0\MalzemeYardim.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baris\Desktop\Malzeme Yardım\MalzemeYardim.Infra.IoC\obj\Debug\net6.0\MalzemeYardim.Infra.IoC.AssemblyInfoInputs.cache
+C:\Users\baris\Desktop\Malzeme Yardım\MalzemeYardim.Infra.IoC\obj\Debug\net6.0\MalzemeYardim.Infra.IoC.AssemblyInfo.cs
+C:\Users\baris\Desktop\Malzeme Yardım\MalzemeYardim.Infra.IoC\obj\Debug\net6.0\MalzemeYardim.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Users\baris\Desktop\Malzeme Yardım\MalzemeYardim.Infra.IoC\obj\Debug\net6.0\MalzemeYardim.Infra.IoC.dll
+C:\Users\baris\Desktop\Malzeme Yardım\MalzemeYardim.Infra.IoC\obj\Debug\net6.0\refint\MalzemeYardim.Infra.IoC.dll
+C:\Users\baris\Desktop\Malzeme Yardım\MalzemeYardim.Infra.IoC\obj\Debug\net6.0\MalzemeYardim.Infra.IoC.pdb
+C:\Users\baris\Desktop\Malzeme Yardım\MalzemeYardim.Infra.IoC\obj\Debug\net6.0\ref\MalzemeYardim.Infra.IoC.dll
+C:\Users\baris\Desktop\Malzeme Yardım\MalzemeYardim.Infra.IoC\bin\Debug\net6.0\MalzemeYardim.Infra.Data.dll
+C:\Users\baris\Desktop\Malzeme Yardım\MalzemeYardim.Infra.IoC\bin\Debug\net6.0\MalzemeYardim.Infra.Data.pdb
+C:\Users\baris\Desktop\Malzeme Yardım\MalzemeYardim.Infra.IoC\obj\Debug\net6.0\MalzemeYardim.Infra.IoC.csproj.CopyComplete

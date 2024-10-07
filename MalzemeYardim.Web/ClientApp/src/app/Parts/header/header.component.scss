@@ -1,0 +1,26 @@
+.header-toolbar {
+    background-color: #3f515b;
+    font-size: 1.6em !important;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 5vh;
+    width: 100%;
+    font-family: 'Poppins',sans-serif;
+}
+
+.logout-button{
+    color: #ca7e7e;
+    border: none;
+    background: none;
+    font-size: 0.7em;
+    cursor: pointer;
+    transition: color 0.3s;
+    position: absolute;
+    right: 1.3vh;
+}
+
+.logout-button:hover{
+    color: #ff4081;
+}

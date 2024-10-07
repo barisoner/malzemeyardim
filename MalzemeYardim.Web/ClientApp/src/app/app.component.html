@@ -1,0 +1,11 @@
+<app-header [title]="title" 
+            (logoutEvent)="logout()">
+</app-header>
+
+<app-sidenav 
+            *ngIf="isSidenavVisible"
+            [activeButtonId]="activeButtonId" 
+            (buttonClicked)="setActiveButton($event)">
+</app-sidenav>
+
+<router-outlet></router-outlet>
